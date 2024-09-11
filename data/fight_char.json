@@ -1,0 +1,38 @@
+[
+  {
+    "Num": 1,
+    "Name": "Phil",
+    "Chi": "菲爾",
+    "HP": 100,
+    "Pic": "Phil.png",
+    "Attack_note": "每次攻擊固定給予敵人 ATK 80 的攻擊",
+    "Attack_note_eng": "Each attack deals ATK 60 damage constantly."
+  },
+  {
+    "Num": 2,
+    "Name": "York",
+    "Chi": "約克",
+    "HP": 200,
+    "Pic": "York.png",
+    "Attack_note": "每次給予敵人 ATK 40 - 90 之間的攻擊, 30% 機率給予 ATK 120 的爆擊",
+    "Attack_note_eng": "Each attack deals ATK 40 - 90 damage, with a 30% possibility of dealing ATK 120 critical hit."
+  },
+  {
+    "Num": 3,
+    "Name": "Thomas",
+    "Chi": "瑪斯",
+    "HP": 300,
+    "Pic": "Thomas.png",
+    "Attack_note": "每次給予敵人 ATK 60 - 120 之間的攻擊, 20% 機率給予 ATK 150 的爆擊",
+    "Attack_note_eng": "Each attack deals ATK 60 - 120 damage, with a 20% possibility of dealing ATK 150 critical hit."
+  },
+  {
+    "Num": 4,
+    "Name": "Harper",
+    "Chi": "赫波",
+    "HP": 400,
+    "Pic": "Harper.png",
+    "Attack_note": "每次給予敵人 ATK 80 - 140 之間的攻擊, 10% 機率給予 ATK 180 的爆擊",
+    "Attack_note_eng": "Each attack deals ATK 80 - 140 damage, with a 10% possibility of dealing ATK 180 critical hit."
+  }
+]
